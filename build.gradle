@@ -18,6 +18,8 @@ allprojects {
     repositories {
         jcenter()
     }
+    group = 'com.chauthai.swipereveallayout'
+    version = '1.4.1'
 }
 
 task clean(type: Delete) {
